@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(247, 220, 210) ;
+    text-align: center;
+}
+
+img{
+    width: 40%;
+    border-radius: 10px;
+}
+
+span{
+    font-size: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+
+p{
+   
+    text-align: center;
+}
